@@ -1,0 +1,6 @@
+x,y,n,spearman,p_value
+alternating_mode_strength,peak_normalized_gain,5,0.22360679774997896,0.7176856442107861
+circulation,peak_normalized_gain,5,-0.7,0.18812040437418728
+stability_margin,peak_normalized_gain,5,-0.7,0.18812040437418728
+dominant_eigenvalue,mean_overload_number,5,0.39999999999999997,0.5046315754686911
+two_cycle_persistence,peak_normalized_gain,5,0.22360679774997896,0.7176856442107861

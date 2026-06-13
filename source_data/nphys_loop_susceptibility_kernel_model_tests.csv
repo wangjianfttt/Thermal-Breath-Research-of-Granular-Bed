@@ -1,0 +1,8 @@
+target,model,features,validation,n,r2_vs_training_mean,spearman_y_yhat
+overload_asinh,loop only,loop_activation,leave_one_route_out,150,0.7455672628456257,0.8875398906618073
+overload_asinh,route severity,route_severity,leave_one_route_out,150,0.7244152405619704,0.879658531370705
+overload_asinh,loop + severity,loop_activation;route_severity,leave_one_route_out,150,0.7186849905208575,0.9558451486732744
+overload_asinh,multiplicative kernel,loop_x_severity,leave_one_route_out,150,0.8196535299821781,0.9313107249211076
+overload_asinh,loop + severity + kernel,loop_activation;route_severity;loop_x_severity,leave_one_route_out,150,0.8844948831668684,0.9493915285123784
+overload_asinh,dimensionless loop number,dimensionless_loop_number,leave_one_route_out,150,0.8196535299821777,0.9313107249211076
+overload_asinh,top-5 force tail,top5_activation,leave_one_route_out,150,0.7740124664586364,0.7767260767145208

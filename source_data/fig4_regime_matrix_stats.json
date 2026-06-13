@@ -1,0 +1,158 @@
+{
+  "n_cases": 27,
+  "corr_Z_cold_bottom": 0.9603751035079335,
+  "corr_survival_cold_bottom": 0.9519721841488951,
+  "corr_gini_cold_bottom": -0.9722015953102161,
+  "corr_gini_hot_bottom": 0.4458044826031282,
+  "mean_by_alpha": {
+    "cold_bottom_pN": {
+      "0.5": 841.9314954158655,
+      "1.0": 326.280751476233,
+      "1.5": 254.1450590196274
+    },
+    "hot_bottom_pN": {
+      "0.5": 207.95772834935875,
+      "1.0": 250.78018622850448,
+      "1.5": 493.0510064055924
+    },
+    "hot_side_pN_abs": {
+      "0.5": 20.589509103821758,
+      "1.0": 45.35508709238573,
+      "1.5": 177.99943834908615
+    },
+    "Z_cold_N": {
+      "0.5": 5.400896747933307,
+      "1.0": 3.8510726952369527,
+      "1.5": 3.7717343161856243
+    },
+    "survival_N": {
+      "0.5": 0.8319538898003024,
+      "1.0": 0.574223413781731,
+      "1.5": 0.5441563849080543
+    },
+    "force_gini_cold_N": {
+      "0.5": 0.4297373054644441,
+      "1.0": 0.49506587160552723,
+      "1.5": 0.5195231059250696
+    },
+    "work_proxy_total": {
+      "0.5": 0.0006644194530730555,
+      "1.0": 0.001626993657075589,
+      "1.5": 0.004664058367418612
+    }
+  },
+  "top_hot_bottom_cases": [
+    {
+      "tag": "a150_mu060_g020",
+      "alpha_mult": 1.5,
+      "friction": 0.6,
+      "lid_gap_radii": 0.2,
+      "hot_bottom_pN": 1241.4629212716875,
+      "cold_bottom_pN": 160.8475725269276,
+      "Z_cold_N": 3.575511818811196,
+      "force_gini_cold_N": 0.517320063428158,
+      "survival_N": 0.5303473237279878
+    },
+    {
+      "tag": "a100_mu060_g002",
+      "alpha_mult": 1.0,
+      "friction": 0.6,
+      "lid_gap_radii": 0.02,
+      "hot_bottom_pN": 852.2426153363831,
+      "cold_bottom_pN": 231.0321729182688,
+      "Z_cold_N": 4.009099001087924,
+      "force_gini_cold_N": 0.5203258350191067,
+      "survival_N": 0.6068464018659532
+    },
+    {
+      "tag": "a100_mu060_g000",
+      "alpha_mult": 1.0,
+      "friction": 0.6,
+      "lid_gap_radii": 0.0,
+      "hot_bottom_pN": 747.9884582657235,
+      "cold_bottom_pN": 236.21082181235408,
+      "Z_cold_N": 4.084075173095945,
+      "force_gini_cold_N": 0.5107903014201369,
+      "survival_N": 0.6248184270595559
+    },
+    {
+      "tag": "a150_mu060_g000",
+      "alpha_mult": 1.5,
+      "friction": 0.6,
+      "lid_gap_radii": 0.0,
+      "hot_bottom_pN": 687.058778854209,
+      "cold_bottom_pN": 265.86795392982947,
+      "Z_cold_N": 4.021958456973294,
+      "force_gini_cold_N": 0.5183454709522712,
+      "survival_N": 0.5920135879926514
+    },
+    {
+      "tag": "a150_mu030_g000",
+      "alpha_mult": 1.5,
+      "friction": 0.3,
+      "lid_gap_radii": 0.0,
+      "hot_bottom_pN": 676.6982521487816,
+      "cold_bottom_pN": 250.99204940935388,
+      "Z_cold_N": 3.778832838773491,
+      "force_gini_cold_N": 0.5248149697303095,
+      "survival_N": 0.5266490945811796
+    }
+  ],
+  "top_cold_bottom_cases": [
+    {
+      "tag": "a050_mu010_g002",
+      "alpha_mult": 0.5,
+      "friction": 0.1,
+      "lid_gap_radii": 0.02,
+      "hot_bottom_pN": 134.2590336831651,
+      "cold_bottom_pN": 959.9541166760772,
+      "Z_cold_N": 5.5954900603303335,
+      "force_gini_cold_N": 0.4135549045610853,
+      "survival_N": 0.83954781088002
+    },
+    {
+      "tag": "a050_mu010_g000",
+      "alpha_mult": 0.5,
+      "friction": 0.1,
+      "lid_gap_radii": 0.0,
+      "hot_bottom_pN": 126.6142550518154,
+      "cold_bottom_pN": 929.4299133677208,
+      "Z_cold_N": 5.586943620178041,
+      "force_gini_cold_N": 0.4141366782396786,
+      "survival_N": 0.8384615384615385
+    },
+    {
+      "tag": "a050_mu010_g020",
+      "alpha_mult": 0.5,
+      "friction": 0.1,
+      "lid_gap_radii": 0.2,
+      "hot_bottom_pN": 137.19486213922983,
+      "cold_bottom_pN": 895.444930749236,
+      "Z_cold_N": 5.61724854119276,
+      "force_gini_cold_N": 0.415332791377802,
+      "survival_N": 0.8428625046916052
+    },
+    {
+      "tag": "a050_mu030_g000",
+      "alpha_mult": 0.5,
+      "friction": 0.3,
+      "lid_gap_radii": 0.0,
+      "hot_bottom_pN": 175.8196510248743,
+      "cold_bottom_pN": 891.9825905310372,
+      "Z_cold_N": 5.423145400593472,
+      "force_gini_cold_N": 0.4311689677892325,
+      "survival_N": 0.840314304041052
+    },
+    {
+      "tag": "a050_mu030_g002",
+      "alpha_mult": 0.5,
+      "friction": 0.3,
+      "lid_gap_radii": 0.02,
+      "hot_bottom_pN": 178.23020195218436,
+      "cold_bottom_pN": 861.6570725510142,
+      "Z_cold_N": 5.446938977351399,
+      "force_gini_cold_N": 0.4360436783303472,
+      "survival_N": 0.843066277989557
+    }
+  ]
+}

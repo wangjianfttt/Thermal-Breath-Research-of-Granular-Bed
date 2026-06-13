@@ -1,0 +1,13 @@
+target,model_family,features,validation,n,r2_vs_training_mean,spearman_y_yhat
+next_memory_coordinate,memory only,memory_coordinate,leave_one_route_out,145,-0.014680182313409729,0.0764446543851362
+next_memory_coordinate,memory only,memory_coordinate,within_route_forward_60_40,55,0.23872173284924803,-0.10346320346320348
+next_memory_coordinate,hot coordinate only,hot_excitation_coordinate,leave_one_route_out,145,0.04633102293378033,0.20606991025035426
+next_memory_coordinate,hot coordinate only,hot_excitation_coordinate,within_route_forward_60_40,55,-1.5955531906000817,0.1822510822510823
+next_memory_coordinate,force-tail control,dimensionless_top5_number,leave_one_route_out,145,-0.02605173229192803,0.6058455361360415
+next_memory_coordinate,force-tail control,dimensionless_top5_number,within_route_forward_60_40,55,-0.5181306732533522,0.18441558441558445
+next_memory_coordinate,memory + hot,memory_coordinate;hot_excitation_coordinate,leave_one_route_out,145,-0.013525932204912161,0.23559675641631236
+next_memory_coordinate,memory + hot,memory_coordinate;hot_excitation_coordinate,within_route_forward_60_40,55,-0.27419571025504297,-0.08499278499278501
+next_memory_coordinate,memory + force tail,memory_coordinate;dimensionless_top5_number,leave_one_route_out,145,0.026881903995640943,0.5128404975594394
+next_memory_coordinate,memory + force tail,memory_coordinate;dimensionless_top5_number,within_route_forward_60_40,55,0.19697388804929072,-0.13196248196248198
+next_memory_coordinate,memory + hot + tail,memory_coordinate;hot_excitation_coordinate;dimensionless_top5_number,leave_one_route_out,145,-0.06692265336032066,0.28635647929459923
+next_memory_coordinate,memory + hot + tail,memory_coordinate;hot_excitation_coordinate;dimensionless_top5_number,within_route_forward_60_40,55,-0.3300412587974735,0.08953823953823956

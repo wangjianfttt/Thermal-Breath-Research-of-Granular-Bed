@@ -1,0 +1,7 @@
+model,features,validation,n,r2_vs_training_mean,spearman_y_yhat,spearman_p
+loop total,loop_force_share_delta,leave_one_route_out,240,0.83453745450854,0.9080036111738049,6.797827314986818e-92
+boundary loops,loop_boundary_force_share_delta,leave_one_route_out,240,-0.46714958197825096,-0.7956987100470493,9.715146562146792e-54
+conduit loops,loop_conduit_force_share_delta,leave_one_route_out,240,0.734690677304809,0.859935068317158,1.8261269232378e-71
+loop + boundary,loop_force_share_delta;loop_boundary_force_share_delta,leave_one_route_out,240,0.8352959043991459,0.9099645827184497,5.90202019213128e-93
+loop + spatial centroids,loop_force_share_delta;loop_force_weighted_z_delta;loop_force_weighted_r_delta,leave_one_route_out,240,0.811741085650185,0.8960598274275592,6.637985740144002e-86
+top5 tail,top5_force_share_delta,leave_one_route_out,240,0.5616973513840369,0.6325361551415821,3.1670209179081683e-28

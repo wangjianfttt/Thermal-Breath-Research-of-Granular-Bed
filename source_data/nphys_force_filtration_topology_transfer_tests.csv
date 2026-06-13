@@ -1,0 +1,8 @@
+model,predictors,validation,n,r2_vs_training_mean,spearman_y_yhat,spearman_p
+Betti area,beta1_birth_area_delta,leave_one_route_out,240,0.7389235352657755,0.8886734144690012,1.4856200019816887e-82
+loop persistence,loop_force_persistence_area_delta,leave_one_route_out,240,0.19349115283389762,0.5023793815864858,9.432739015536875e-17
+early Betti,beta1_birth_density_5pct_delta,leave_one_route_out,240,-0.15888362162734948,0.012194656157224948,0.8509241006040493
+total loop,total_loop_force_share_delta,leave_one_route_out,240,0.7957306848106163,0.9080036111738049,6.797827314986818e-92
+conduit loop,loop_conduit_force_share_delta,leave_one_route_out,240,0.6748597616397836,0.8617137450302955,4.4621662538885457e-72
+top-5 tail,top5_force_share_delta,leave_one_route_out,240,0.4588577414237828,0.6323825066407401,3.292266912226865e-28
+topology pair,beta1_birth_area_delta;loop_force_persistence_area_delta,leave_one_route_out,240,0.7615502162424663,0.898530356429799,4.414890092650986e-87

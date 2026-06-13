@@ -1,0 +1,21 @@
+predictor,regime_id,feature,route_local_auc,n,rare_event_count
+lagged Psi,R1,dimensionless_loop_number_z_lag2,0.8260869565217391,28,5
+lagged Psi,R3,dimensionless_loop_number_z_lag2,0.9393939393939393,28,6
+lagged Psi,R5,dimensionless_loop_number_z_lag2,0.9166666666666666,28,4
+lagged Psi,R6,dimensionless_loop_number_z_lag2,0.9791666666666666,28,4
+lagged Psi,R6c,dimensionless_loop_number_z_lag2,0.9895833333333334,28,4
+lagged loop,R1,loop_activation_z_lag2,0.8260869565217391,28,5
+lagged loop,R3,loop_activation_z_lag2,0.9393939393939393,28,6
+lagged loop,R5,loop_activation_z_lag2,0.9166666666666666,28,4
+lagged loop,R6,loop_activation_z_lag2,0.9791666666666666,28,4
+lagged loop,R6c,loop_activation_z_lag2,0.9895833333333334,28,4
+lagged top-5% tail,R1,top5_activation_z_lag2,0.782608695652174,28,5
+lagged top-5% tail,R3,top5_activation_z_lag2,0.0909090909090909,28,6
+lagged top-5% tail,R5,top5_activation_z_lag2,0.15625,28,4
+lagged top-5% tail,R6,top5_activation_z_lag2,0.13541666666666669,28,4
+lagged top-5% tail,R6c,top5_activation_z_lag2,0.0,28,4
+lagged cold loop,R1,force_h1_birth_force_share_cold_z_lag2,0.5652173913043479,28,5
+lagged cold loop,R3,force_h1_birth_force_share_cold_z_lag2,0.16666666666666666,28,6
+lagged cold loop,R5,force_h1_birth_force_share_cold_z_lag2,0.6354166666666666,28,4
+lagged cold loop,R6,force_h1_birth_force_share_cold_z_lag2,0.6979166666666666,28,4
+lagged cold loop,R6c,force_h1_birth_force_share_cold_z_lag2,0.8541666666666666,28,4

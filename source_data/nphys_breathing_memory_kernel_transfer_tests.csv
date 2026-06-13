@@ -1,0 +1,6 @@
+model,features,validation,n,r2_vs_training_mean,spearman_y_yhat
+loop kernel,loop_z_lag0;loop_z_lag1;loop_z_lag2;loop_z_lag3;loop_z_lag4,leave_one_route_out,75,0.6426767356222798,0.7843421188649956
+hazard kernel,hazard_z_lag0;hazard_z_lag1;hazard_z_lag2;hazard_z_lag3;hazard_z_lag4,leave_one_route_out,75,0.21772555328754317,0.4306970128022759
+tail kernel,tail_z_lag0;tail_z_lag1;tail_z_lag2;tail_z_lag3;tail_z_lag4,leave_one_route_out,75,-0.6021500220217149,-0.12699857752489332
+amplitude-buffer kernel,amplitude_z_lag0;amplitude_z_lag1;amplitude_z_lag2;amplitude_z_lag3;amplitude_z_lag4;buffer_z_lag0;buffer_z_lag1;buffer_z_lag2;buffer_z_lag3;buffer_z_lag4,leave_one_route_out,75,-0.604224739446154,-0.36631578947368415
+loop plus hazard kernel,loop_z_lag0;loop_z_lag1;loop_z_lag2;loop_z_lag3;loop_z_lag4;hazard_z_lag0;hazard_z_lag1;hazard_z_lag2;hazard_z_lag3;hazard_z_lag4,leave_one_route_out,75,0.19228134503186123,0.5358179231863441

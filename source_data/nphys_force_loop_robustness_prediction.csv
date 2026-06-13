@@ -1,0 +1,4 @@
+model,validation,n,r2_vs_zero,spearman_y_yhat
+top5_control,leave_one_route_out,150,0.1291750106403109,0.24973021023156586
+loop_coordinate,leave_one_route_out,150,0.17207753764031197,0.5351828970176453
+loop_plus_top5,leave_one_route_out,150,0.17917437550673765,0.5343828614605094

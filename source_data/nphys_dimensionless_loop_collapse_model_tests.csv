@@ -1,0 +1,15 @@
+predictor,target,validation,n,slope,intercept,r2_vs_mean,spearman_x_y,r2_vs_training_mean,spearman_y_yhat
+loop_activation,overload_number,in_sample_linear,150,58.641828977514365,-0.20940430687119294,0.45046853518786634,0.937031868083026,,
+loop_activation,overload_number,leave_one_route_out,150,,,,,0.08676403518679687,0.8159100404462419
+top5_activation,overload_number,in_sample_linear,150,-76.98279938714902,10.251546832413323,0.498084019954107,-0.820258678163474,,
+top5_activation,overload_number,leave_one_route_out,150,,,,,0.380481120851089,0.776256722521001
+dimensionless_loop_number,overload_number,in_sample_linear,150,102.84158278154611,-1.4074755648434287,0.6084516461704114,0.9689728432374773,,
+dimensionless_loop_number,overload_number,leave_one_route_out,150,,,,,0.6229266102506946,0.9639770656473621
+dimensionless_top5_number,overload_number,in_sample_linear,150,-84.34230324690395,5.874216464500928,0.1404261561696155,0.31745233121472066,,
+dimensionless_top5_number,overload_number,leave_one_route_out,150,,,,,-0.23823711474450593,-0.5646384283745944
+loop_number_no_boundary,overload_number,in_sample_linear,150,98.96242365001575,-1.4927003582133942,0.6116441772099408,0.96614249522201,,
+loop_number_no_boundary,overload_number,leave_one_route_out,150,,,,,0.6289752070977346,0.962910351571181
+loop_number_no_friction,overload_number,in_sample_linear,150,51.00942114102873,-1.4847804389893113,0.5481459622372838,0.9526556735854927,,
+loop_number_no_friction,overload_number,leave_one_route_out,150,,,,,0.43328588371768473,0.9186488288368373
+loop_number_friction_only,overload_number,in_sample_linear,150,145.05687016988153,-1.4264714340780593,0.6009821859662423,0.9687488332814793,,
+loop_number_friction_only,overload_number,leave_one_route_out,150,,,,,0.6029659840176516,0.9674154406862528

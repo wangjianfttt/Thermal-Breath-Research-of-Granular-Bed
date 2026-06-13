@@ -1,0 +1,7 @@
+target,model,features,validation,n,r2_vs_training_mean,spearman_y_yhat
+overload_asinh,amplitude,breath_amplitude,within_route_forward_60_40,33,0.7599495474131482,0.8937165775401071
+overload_asinh,area,irreversibility_area,within_route_forward_60_40,33,0.2025123280971004,0.7038770053475937
+overload_asinh,loop cost,loop_cost,within_route_forward_60_40,33,-0.49981743158441727,0.7897727272727273
+overload_asinh,area + amplitude,irreversibility_area;breath_amplitude,within_route_forward_60_40,33,0.7542409007145584,0.886029411764706
+overload_asinh,loop + area,loop_cost;irreversibility_area,within_route_forward_60_40,33,0.04453189960318005,0.7944518716577541
+overload_asinh,irreversibility budget,loop_cost;irreversibility_area;imprint_efficiency;breath_irregularity,within_route_forward_60_40,33,0.7428602935489543,0.8091577540106952

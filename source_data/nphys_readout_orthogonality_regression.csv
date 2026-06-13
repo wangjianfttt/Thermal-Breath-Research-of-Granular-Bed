@@ -1,0 +1,11 @@
+scope,target,beta_fabric,beta_loop,dominant_channel,r2,loo_spearman_rho
+six_regime,cold_load,0.9877430612138381,0.012283948185341467,fabric,0.9580372378923335,
+six_regime,hot_overload_force_delta,0.052671579869242785,1.028797600865522,loop,0.9819262199665588,
+six_regime,hot_load,0.7578141435519853,1.3046740500568137,mixed,0.8300799101692559,
+six_regime,cold_hot_gradient_angle,,,angle_degrees,86.35665878450723,
+six_regime_loo,cold_load_matched,,,fabric_memory_index,0.957745341514408,1.0
+six_regime_loo,cold_load_cross,,,loop_activation_index,0.4060883424334377,0.8857142857142858
+six_regime_loo,cold_load_two_channel,,,fabric_memory_index+loop_activation_index,0.9253772332817782,1.0
+six_regime_loo,hot_overload_force_delta_matched,,,loop_activation_index,0.980143492809631,1.0
+six_regime_loo,hot_overload_force_delta_cross,,,fabric_memory_index,0.392492272941518,0.6571428571428573
+six_regime_loo,hot_overload_force_delta_two_channel,,,fabric_memory_index+loop_activation_index,0.9726761889531889,1.0

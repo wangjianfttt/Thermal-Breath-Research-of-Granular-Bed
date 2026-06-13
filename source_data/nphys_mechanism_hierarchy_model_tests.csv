@@ -1,0 +1,19 @@
+model,validation,target,n,r2_vs_mean,r2_vs_training_mean
+force tail,in_sample,overload_number_asinh,150,0.0009278148366499428,
+force tail,leave_one_route_out,overload_number_asinh,150,,-0.26321752844846946
+force tail,within_route_forward_60_40,overload_number_asinh,60,,0.2867309411976411
+loop activation,in_sample,overload_number_asinh,150,0.8455001981170226,
+loop activation,leave_one_route_out,overload_number_asinh,150,,0.7455672628456257
+loop activation,within_route_forward_60_40,overload_number_asinh,60,,0.84799126303795
+dimensionless loop,in_sample,overload_number_asinh,150,0.9051913782476574,
+dimensionless loop,leave_one_route_out,overload_number_asinh,150,,0.8196535299821778
+dimensionless loop,within_route_forward_60_40,overload_number_asinh,60,,0.8479912630379509
+loop + non-normal,in_sample,overload_number_asinh,150,0.9328380890301257,
+loop + non-normal,leave_one_route_out,overload_number_asinh,150,,0.4586902004957215
+loop + non-normal,within_route_forward_60_40,overload_number_asinh,60,,0.8919701696021013
+loop + geometric flow,in_sample,overload_number_asinh,145,0.9242015146147802,
+loop + geometric flow,leave_one_route_out,overload_number_asinh,145,,0.8328336853221785
+loop + geometric flow,within_route_forward_60_40,overload_number_asinh,55,,0.9396901143049001
+full audited model,in_sample,overload_number_asinh,145,0.9448058714134253,
+full audited model,leave_one_route_out,overload_number_asinh,145,,0.49556844082365603
+full audited model,within_route_forward_60_40,overload_number_asinh,55,,0.9396901143047731

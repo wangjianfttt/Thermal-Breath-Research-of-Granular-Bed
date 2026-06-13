@@ -1,0 +1,9 @@
+relationship,x,y,n_routes,spearman,exact_p_two_sided
+downward hot displacement vs mean overload,downward_hot_displacement,mean_overload,5,0.9999999999999999,0.016666666666666666
+downward hot displacement vs loop gain,downward_hot_displacement,loop_gain,5,0.9999999999999999,0.016666666666666666
+downward hot displacement vs slow severity,downward_hot_displacement,S,5,0.9999999999999999,0.016666666666666666
+raw hot displacement vs mean overload,delta_hot_excitation_coordinate,mean_overload,5,-0.9999999999999999,0.016666666666666666
+exhalation polarity vs mean overload,exhalation_polarity,mean_overload,5,0.7999999999999999,0.13333333333333333
+displacement norm vs mean overload,displacement_norm,mean_overload,5,0.7,0.23333333333333334
+downward hot displacement vs lag-2 loop AUC,downward_hot_displacement,lag2_loop_auc,5,0.8999999999999998,0.08333333333333333
+downward hot displacement vs peak transient gain,downward_hot_displacement,peak_normalized_gain,5,0.39999999999999997,0.5166666666666667

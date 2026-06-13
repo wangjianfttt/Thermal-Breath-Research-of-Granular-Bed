@@ -1,0 +1,13 @@
+target,model,delta_r2_vs_route_state,r2
+next overload,route,-0.056929334268237985,-0.13510518867667187
+next overload,route+state+tail,0.37400606375913137,0.2958302093506975
+next overload,route+state+history,0.6700232441893145,0.5918473897808806
+next overload,route+state+tail+history,0.7424813576358451,0.6643055032274112
+next cold memory,route,0.5757763423437505,-0.2838829471976656
+next cold memory,route+state+tail,0.018716059569263033,-0.8409432299721531
+next cold memory,route+state+history,0.3040730143888011,-0.555586275152615
+next cold memory,route+state+tail+history,-0.025280748918261375,-0.8849400384596775
+next hot excitation,route,-0.13425071406558153,-0.20897200849392927
+next hot excitation,route+state+tail,0.14725664100864444,0.0725353465802967
+next hot excitation,route+state+history,0.6761503316084596,0.6014290371801119
+next hot excitation,route+state+tail+history,0.7639368263018136,0.6892155318734658

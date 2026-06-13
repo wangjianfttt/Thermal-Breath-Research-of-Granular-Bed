@@ -1,0 +1,8 @@
+predictor,column,target,n,spearman_rho_route_centered,route_preserving_permutation_p
+loop activation,loop_activation_rc,route-centred asinh overload,240,0.7673206132050903,0.0001999600079984003
+positive loop cost,loop_breath_cost,route-centred asinh overload,240,0.7399359038332097,0.0001999600079984003
+topological triplet,topological_triplet_norm,route-centred asinh overload,240,0.1607371655757912,0.013597280543891222
+force tail,force_tail_rc,route-centred asinh overload,240,-0.35878400666678234,0.0001999600079984003
+positive tail cost,tail_cost,route-centred asinh overload,240,-0.29936126472016616,0.0001999600079984003
+tail/conduit triplet,tail_triplet_norm,route-centred asinh overload,240,0.08608830014409971,0.1907618476304739
+wall conduit,wall_conduit_rc,route-centred asinh overload,240,0.2439747217833643,0.0015996800639872025

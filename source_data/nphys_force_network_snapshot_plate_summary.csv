@@ -1,0 +1,3 @@
+case_label,tag,regime_id,cycle,phase,n_contacts,n_display_edges,display_cycle_closing_edges,display_cycle_closing_force_share,top_1p_force_share,top_5p_force_share,cycle_closing_force_share_total,bottom_side_edge_fraction_first,overload_asinh,loop_activation,wall_conduit_activation
+early dangerous inhale,a150_mu060_g000,R6c,1,hot,47765,2642,2212,0.11412891254673607,0.03575568950506977,0.13860314633134752,0.7042378904175461,2.0935831675913327e-05,4.577128181598201,0.2131255986040165,-0.0220288804198553
+later buffered inhale,a150_mu060_g000,R6c,12,hot,25114,1389,1163,0.17916808226281125,0.07620727827738034,0.23895398582809688,0.5885032022637524,0.00019909213984231904,1.8800192217829923,0.0989925089050152,-0.0046212409013496

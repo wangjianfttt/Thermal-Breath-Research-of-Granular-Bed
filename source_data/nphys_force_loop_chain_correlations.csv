@@ -1,0 +1,5 @@
+target,predictor,spearman_raw,p_raw,spearman_within_regime_centered,p_within_regime_centered,n
+force_p99_hot_minus_cold,force_share_top5_edges_hot_minus_cold,-0.8250268900840038,1.6295298326095286e-38,-0.4764638428374594,7.132284483181249e-10,150
+force_p99_hot_minus_cold,force_h1_birth_force_share_hot_minus_cold,0.9291879639095072,7.467159177622476e-66,0.7410124894439752,2.21756394112161e-27,150
+force_p99_hot_minus_cold,giant_fraction_after_top5_edges_hot_minus_cold,0.05753677941241834,0.48432491732462046,0.1529187963909507,0.06173407559493682,150
+force_p99_hot_minus_cold,bottom_side_percolation_edge_fraction_hot_minus_cold,-0.5402853460153785,9.623087306044025e-13,0.05060669363082804,0.5385466578071234,150

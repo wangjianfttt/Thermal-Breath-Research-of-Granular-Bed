@@ -1,0 +1,4 @@
+tag,folder,run,states_parsed,expected_states,complete_pairs,expected_pairs,complete
+a150_mu010_g020,a150_mu010_g020_c30,G1_lossy_high_expansion_low_friction,60,60,30,30,yes
+a150_mu030_g020,a150_mu030_g020_c30,G2_lossy_high_expansion_mid_friction,60,60,30,30,yes
+a050_mu060_g020,a050_mu060_g020_c30,G3_buffered_low_expansion_high_friction,60,60,30,30,yes

@@ -1,0 +1,7 @@
+relationship,predictor,target,n,spearman,exact_p
+local response norm vs hot/cold CV ratio,local_response_norm,hot_cold_cv_ratio,6,0.2,0.7138888888888889
+local response norm vs hot/structural CV ratio,local_response_norm,hot_structural_cv_ratio,6,-0.2571428571428572,0.6583333333333333
+fluctuation-response index vs hot force-tail width,fluctuation_response_index,hot_tail_p99_over_mean,6,0.4285714285714286,0.41944444444444445
+fluctuation-response index vs mean hot load,fluctuation_response_index,hot_bottom_pN_mean,6,-0.028571428571428574,1.0
+local response norm vs mean hot load,local_response_norm,hot_bottom_pN_mean,6,0.4285714285714286,0.41944444444444445
+force-loop susceptibility slope vs local matrix response,susceptibility_slope,local_response_norm,4,1.0,0.08333333333333333

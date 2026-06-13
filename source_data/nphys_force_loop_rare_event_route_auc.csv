@@ -1,0 +1,21 @@
+left_out_route,predictor,n_test,rare_event_count,route_local_auc
+R1,force-loop activation,30,6,0.7222222222222222
+R1,top-5% force tail,30,6,0.673611111111111
+R1,giant-component change,30,6,0.7083333333333333
+R1,wall-spanning proxy,30,6,0.4236111111111111
+R3,force-loop activation,30,6,0.9722222222222222
+R3,top-5% force tail,30,6,0.16666666666666669
+R3,giant-component change,30,6,0.9652777777777778
+R3,wall-spanning proxy,30,6,0.5486111111111112
+R5,force-loop activation,30,6,0.9305555555555556
+R5,top-5% force tail,30,6,0.1388888888888889
+R5,giant-component change,30,6,0.5
+R5,wall-spanning proxy,30,6,0.6597222222222222
+R6,force-loop activation,30,6,0.923611111111111
+R6,top-5% force tail,30,6,0.1527777777777778
+R6,giant-component change,30,6,0.6111111111111112
+R6,wall-spanning proxy,30,6,0.4236111111111111
+R6c,force-loop activation,30,6,1.0
+R6c,top-5% force tail,30,6,0.0
+R6c,giant-component change,30,6,0.14583333333333331
+R6c,wall-spanning proxy,30,6,0.7638888888888888

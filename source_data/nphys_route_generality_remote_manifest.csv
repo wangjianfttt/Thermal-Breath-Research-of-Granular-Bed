@@ -1,0 +1,4 @@
+tag,remote_project,pid,batch_running,log_exists,log_size_bytes,contact_local_count,dump_count,expected_contact_local_count,complete,last_log_line,checked_at
+a150_mu010_g020_c30,/data1/codex_runs/heat_Li2TiO3_route_generality_force_probe,1403877,0,1,1858120,60,60,60,yes,Long-cycle force-probe case a150_mu010_g020_c30 finished.,2026-06-13T07:19:58+08:00
+a150_mu030_g020_c30,/data1/codex_runs/heat_Li2TiO3_route_generality_force_probe,1403877,0,1,1859342,60,60,60,yes,Long-cycle force-probe case a150_mu030_g020_c30 finished.,2026-06-13T07:19:58+08:00
+a050_mu060_g020_c30,/data1/codex_runs/heat_Li2TiO3_route_generality_force_probe,1403877,0,1,1858492,60,60,60,yes,Long-cycle force-probe case a050_mu060_g020_c30 finished.,2026-06-13T07:19:58+08:00

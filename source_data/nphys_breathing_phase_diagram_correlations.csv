@@ -1,0 +1,16 @@
+target,predictor,n,spearman_rho,spearman_p
+response_overload_asinh,response_loop_activation,87,0.9191922891566322,3.723190909748168e-36
+response_overload_asinh,response_imprint_efficiency,87,0.13014872056572135,0.22955481725939428
+response_overload_asinh,response_hazard_number,87,0.9189689606325259,4.166877908029454e-36
+response_overload_asinh,response_amplitude,87,0.7854669388350222,2.1170690893189144e-19
+response_overload_asinh,buffer_number,87,-0.8919406575781875,4.825712139744448e-31
+positive_overload,response_loop_activation,87,0.8394516415057197,3.143365941915808e-24
+positive_overload,response_imprint_efficiency,87,0.35939430185598037,0.000629209486981756
+positive_overload,response_hazard_number,87,0.8404148677151354,2.4860176949454275e-24
+positive_overload,response_amplitude,87,0.6291758512806794,6.731980485189285e-11
+positive_overload,buffer_number,87,-0.810287940404953,1.986325045622273e-21
+strong_overload,response_loop_activation,87,0.5752127214842653,5.633152065672408e-09
+strong_overload,response_imprint_efficiency,87,-0.33475307766103574,0.0015287426209280466
+strong_overload,response_hazard_number,87,0.6294335927717164,6.577501637841487e-11
+strong_overload,response_amplitude,87,0.6568086247901012,4.915095112877183e-12
+strong_overload,buffer_number,87,-0.6164073912792865,2.0709843528793332e-10

@@ -1,0 +1,7 @@
+predictor,target,n,spearman,p_value
+route_efficiency_score,response_overload_asinh,87,-0.28790856608058424,0.006848926456941506
+route_efficiency_score,loop_activation,87,-0.365014973111176,0.0005086760553922976
+route_efficiency_score,hazard_number,87,-0.44486141671161633,1.5815192834673244e-05
+route_efficiency_score,imprint_efficiency,87,0.7238005307728771,2.3690614729394393e-15
+route_frontier_deficit,hazard_number,87,0.3233056434527962,0.002254694257518585
+route_frontier_deficit,loop_activation,87,0.27780450521019157,0.009181934231496519

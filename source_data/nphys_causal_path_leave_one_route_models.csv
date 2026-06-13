@@ -1,0 +1,9 @@
+model,features,validation,n,r2_vs_mean,spearman_y_yhat,spearman_p
+cold memory,cold_memory_index,leave_one_route_out_huber,150,-0.31483073842293985,-0.5973621734691905,7.084272652781436e-16
+force tail,tail_number,leave_one_route_out_huber,150,-0.9737013847034413,-0.6818489710653808,7.624651574215999e-22
+route severity,route_severity,leave_one_route_out_huber,150,0.6166719765783454,0.879658531370705,1.2690973310556284e-49
+loop activation,loop_activation,leave_one_route_out_huber,150,0.5516352333941621,0.8185270456464732,1.8748721476182595e-37
+dimensionless loop,loop_number,leave_one_route_out_huber,150,0.7507890563507778,0.9249779990221787,4.580611448094792e-64
+route + tail,route_severity;tail_number,leave_one_route_out_huber,150,0.746190525551234,0.8551615627361215,4.4526851450663323e-44
+route + loop,route_severity;loop_activation,leave_one_route_out_huber,150,0.595977317773728,0.9606560291568513,3.1042473389453734e-84
+route + loop number,route_severity;loop_number,leave_one_route_out_huber,150,0.7118101271418213,0.9147588781723632,3.9690486989531514e-60

@@ -1,0 +1,5 @@
+test,n,metric,value,p_value
+route_severity_orders_susceptibility,5,spearman_exact,0.9999999999999999,0.016666666666666666
+raw_loop_to_overload,150,spearman,0.937031868083026,1.686477327401687e-69
+multiplicative_coordinate,150,spearman,0.9689728432374773,9.822500704714945e-92
+susceptibility_normalized_collapse,150,spearman,0.06720832036979421,0.4138318099466748

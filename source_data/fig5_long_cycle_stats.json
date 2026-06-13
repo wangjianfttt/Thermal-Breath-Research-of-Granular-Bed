@@ -1,0 +1,53 @@
+[
+  {
+    "tag": "a050_mu010_g002_c30",
+    "cold_bottom_cycle10": 959.9541166760772,
+    "cold_bottom_cycle30": 933.1865413191812,
+    "cold_bottom_change_10_30_frac": -0.027884223726839186,
+    "hot_bottom_cycle10": 134.2590336831651,
+    "hot_bottom_cycle30": 154.97940161459005,
+    "hot_bottom_change_10_30_frac": 0.15433127561697257,
+    "Z_cycle10": 5.5954900603303335,
+    "Z_cycle30": 5.721887053703887,
+    "Z_slope_last10": 0.0010885234503075708,
+    "Gini_cycle10": 0.4135549045610853,
+    "Gini_cycle30": 0.4133670129904632,
+    "survival_cycle10": 0.83954781088002,
+    "survival_cycle30": 0.8467427060595812,
+    "work_total_30": 0.0013224252744894675
+  },
+  {
+    "tag": "a100_mu030_g002_c30",
+    "cold_bottom_cycle10": 372.43742476962206,
+    "cold_bottom_cycle30": 391.2786993753332,
+    "cold_bottom_change_10_30_frac": 0.05058910128960781,
+    "hot_bottom_cycle10": 84.54844196401513,
+    "hot_bottom_cycle30": 77.71919729329876,
+    "hot_bottom_change_10_30_frac": -0.08077315811003327,
+    "Z_cycle10": 3.780437147660963,
+    "Z_cycle30": 3.853624765107309,
+    "Z_slope_last10": -0.019569445818085982,
+    "Gini_cycle10": 0.4906911069626363,
+    "Gini_cycle30": 0.4762935177312925,
+    "survival_cycle10": 0.5646484439868478,
+    "survival_cycle30": 0.5670245247710036,
+    "work_total_30": 0.003313160087494044
+  },
+  {
+    "tag": "a150_mu060_g020_c30",
+    "cold_bottom_cycle10": 160.8475725269276,
+    "cold_bottom_cycle30": 242.76941848094023,
+    "cold_bottom_change_10_30_frac": 0.50931353620707,
+    "hot_bottom_cycle10": 1241.4629212716875,
+    "hot_bottom_cycle30": 97.97034897530646,
+    "hot_bottom_change_10_30_frac": -0.9210847563010977,
+    "Z_cycle10": 3.575511818811196,
+    "Z_cycle30": 3.1292651567599643,
+    "Z_slope_last10": -0.028982536271627488,
+    "Gini_cycle10": 0.517320063428158,
+    "Gini_cycle30": 0.521633783783853,
+    "survival_cycle10": 0.5303473237279878,
+    "survival_cycle30": 0.4548920838143211,
+    "work_total_30": 0.0118928876425366
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "keff_benchmark_rmse_W_mK": 0.17466954987876984,
+  "keff_benchmark_mae_W_mK": 0.17223965114437262,
+  "keff_benchmark_mape": 0.16413259569990757,
+  "corrected_free_cycle20_cold_porosity": 0.422521859519969,
+  "corrected_free_cycle20_cold_keff_W_mK": 1.20107528559028,
+  "corrected_free_cycle20_cold_height_m": 0.0128553847900333,
+  "old_free_cycle20_cold_keff_W_mK": 0.502537884319277,
+  "structural_ratio_hot_bottom_range": [
+    0.8179223099410691,
+    0.941484412951103
+  ],
+  "structural_ratio_cold_bottom_range": [
+    0.9627731131129807,
+    1.1374797816708313
+  ]
+}

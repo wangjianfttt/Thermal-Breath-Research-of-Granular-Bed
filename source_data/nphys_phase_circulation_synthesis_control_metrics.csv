@@ -1,0 +1,7 @@
+control,metric,value,p_value,interpretation
+circulation orientation,signed area vs overload,-1.0,0.0166666666666666,orientation orders overload
+path-length control,arc length vs overload,-0.3,0.6833333333333333,not just larger motion
+cycle-order null,random route-local point order,-1.0,0.0078,temporal order carries signal
+metric rescaling,perfect closed-area ordering,4.0,,4/5 metric scalings
+rank-coordinate boundary,rank closed area vs overload,-0.3,0.6833333333333333,not arbitrary coordinate invariant
+writing time,half-area cycle vs overload,0.9746794344808964,0.0333333333333333,risk grows with writing time

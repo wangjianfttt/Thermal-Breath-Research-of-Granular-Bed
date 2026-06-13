@@ -1,0 +1,5 @@
+quadrant,n,rare_event_count,rare_event_probability,base_rate
+low loop / closed conduit,36,0,0.0,0.2
+conduit only,43,1,0.023255813953488372,0.2
+loop only,30,8,0.26666666666666666,0.2
+loop + conduit,41,21,0.5121951219512195,0.2

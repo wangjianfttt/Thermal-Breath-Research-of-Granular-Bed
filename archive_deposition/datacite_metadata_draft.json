@@ -1,0 +1,64 @@
+{
+  "identifier": {
+    "identifier": "DOI_TO_BE_ASSIGNED",
+    "identifierType": "DOI"
+  },
+  "creators": [
+    {
+      "name": "Wang, Jian",
+      "nameType": "Personal"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Memory-induced thermal breathing of a granular force network: DEM source data and raw contact-network outputs"
+    }
+  ],
+  "publisher": "Repository to be assigned",
+  "publicationYear": 2026,
+  "types": {
+    "resourceTypeGeneral": "Dataset",
+    "resourceType": "Simulation data"
+  },
+  "version": "1.0-review",
+  "language": "en",
+  "subjects": [
+    {
+      "subject": "granular matter"
+    },
+    {
+      "subject": "discrete element method"
+    },
+    {
+      "subject": "material memory"
+    },
+    {
+      "subject": "force networks"
+    },
+    {
+      "subject": "thermal ratcheting"
+    },
+    {
+      "subject": "non-equilibrium soft matter"
+    }
+  ],
+  "descriptions": [
+    {
+      "descriptionType": "Abstract",
+      "description": "Dataset supporting a Nature Physics Article candidate on memory-induced thermal breathing in a thermally cycled granular force network. The DOI package should include processed source data, analysis scripts, input decks and 2823 required raw DEM files (5.01 GB) comprising atom dumps, restart files and contact-local pair-force outputs."
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "Licence to be selected before deposition"
+    }
+  ],
+  "relatedIdentifiers": [
+    {
+      "relationType": "IsSupplementTo",
+      "relatedIdentifier": "MANUSCRIPT_DOI_OR_PREPRINT_TO_BE_ASSIGNED",
+      "relatedIdentifierType": "DOI"
+    }
+  ],
+  "fundingReferences": []
+}

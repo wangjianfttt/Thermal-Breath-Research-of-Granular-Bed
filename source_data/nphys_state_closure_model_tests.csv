@@ -1,0 +1,16 @@
+target,target_column,model,n_train,n_test,split,r2,rmse
+next overload,target_next_overload,route,95,45,within_route_forward_cycle_20,-0.13510518867667187,0.4735254519185961
+next overload,target_next_overload,route+state,95,45,within_route_forward_cycle_20,-0.07817585440843389,0.46149826602902144
+next overload,target_next_overload,route+state+tail,95,45,within_route_forward_cycle_20,0.2958302093506975,0.3729614697191168
+next overload,target_next_overload,route+state+history,95,45,within_route_forward_cycle_20,0.5918473897808806,0.28394652751608485
+next overload,target_next_overload,route+state+tail+history,95,45,within_route_forward_cycle_20,0.6643055032274112,0.25751194767355734
+next cold memory,target_next_memory,route,95,45,within_route_forward_cycle_20,-0.2838829471976656,0.3990750196390661
+next cold memory,target_next_memory,route+state,95,45,within_route_forward_cycle_20,-0.8596592895414161,0.48029550301274293
+next cold memory,target_next_memory,route+state+tail,95,45,within_route_forward_cycle_20,-0.8409432299721531,0.47787248625407136
+next cold memory,target_next_memory,route+state+history,95,45,within_route_forward_cycle_20,-0.555586275152615,0.43927741982745516
+next cold memory,target_next_memory,route+state+tail+history,95,45,within_route_forward_cycle_20,-0.8849400384596775,0.4835491210187979
+next hot excitation,target_next_hot,route,95,45,within_route_forward_cycle_20,-0.20897200849392927,0.8192081073188286
+next hot excitation,target_next_hot,route+state,95,45,within_route_forward_cycle_20,-0.07472129442834774,0.7723853820193054
+next hot excitation,target_next_hot,route+state+tail,95,45,within_route_forward_cycle_20,0.0725353465802967,0.7175213075416507
+next hot excitation,target_next_hot,route+state+history,95,45,within_route_forward_cycle_20,0.6014290371801119,0.4703692763648495
+next hot excitation,target_next_hot,route+state+tail+history,95,45,within_route_forward_cycle_20,0.6892155318734658,0.4153514892020618

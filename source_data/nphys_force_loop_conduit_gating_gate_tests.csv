@@ -1,0 +1,2 @@
+test,observed_risk_difference,routewise_conduit_shuffle_p_one_sided,n_permutations,null_q025,null_q975
+high_loop_wall_conduit_gate,0.24552845528455286,0.1105889411058894,10000,-0.0608974358974359,0.3125996810207337

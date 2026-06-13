@@ -1,0 +1,7 @@
+relationship,x,y,n,spearman,exact_p
+slow severity vs loop gain,S,loop_gain,5,0.9999999999999999,0.016666666666666666
+slow severity vs mean overload,S,mean_overload,5,0.9999999999999999,0.016666666666666666
+loop gain vs mean overload,loop_gain,mean_overload,5,0.9999999999999999,0.016666666666666666
+stability vs transient gain,spectral_radius,peak_normalized_gain,5,0.7,0.23333333333333334
+loop-tail rare-event advantage vs overload,rare_loop_minus_tail_auc,mean_overload,5,0.6,0.35
+lagged loop-tail advantage vs overload,lag2_loop_minus_tail_auc,mean_overload,5,0.7,0.23333333333333334

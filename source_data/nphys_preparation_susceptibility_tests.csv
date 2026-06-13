@@ -1,0 +1,6 @@
+relationship,predictor,target,n,spearman,exact_p
+hot force-tail vs hot-load CV,hot_tail_p99_over_mean,hot_bottom_pN_cv,6,0.6,0.24166666666666667
+hot force Gini vs hot-load CV,hot_force_gini_direct,hot_bottom_pN_cv,6,0.7142857142857143,0.1361111111111111
+hot-load mean vs hot/cold CV ratio,hot_bottom_pN_mean,hot_cold_cv_ratio,6,-0.48571428571428577,0.35555555555555557
+hot force-tail vs hot/cold CV ratio,hot_tail_p99_over_mean,hot_cold_cv_ratio,6,0.48571428571428577,0.35555555555555557
+hot-load mean vs hot/structural CV ratio,hot_bottom_pN_mean,hot_structural_cv_ratio,6,-0.8857142857142858,0.03333333333333333

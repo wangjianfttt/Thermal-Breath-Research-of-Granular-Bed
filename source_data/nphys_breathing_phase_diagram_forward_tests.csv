@@ -1,0 +1,11 @@
+target,threshold_overload_asinh,model,features,validation,n_test,auc,balanced_accuracy,spearman_y_prob
+positive_overload,0.0,activation,response_loop_activation,within_route_forward_60_40,22,0.5454545454545454,0.2727272727272727,0.0842151921066519
+positive_overload,0.0,imprint,response_imprint_efficiency,within_route_forward_60_40,22,1.0,1.0,0.8669214468630108
+positive_overload,0.0,hazard,response_hazard_number,within_route_forward_60_40,22,0.5454545454545454,0.2727272727272727,0.0842151921066519
+positive_overload,0.0,activation+imprint,response_loop_activation;response_imprint_efficiency,within_route_forward_60_40,22,1.0,0.7727272727272727,0.8669214468630108
+positive_overload,0.0,amplitude+cost+imprint,response_amplitude;response_loop_cost_positive;response_imprint_efficiency,within_route_forward_60_40,22,1.0,0.7727272727272727,0.8669214468630108
+strong_overload,1.0,activation,response_loop_activation,within_route_forward_60_40,11,0.8,0.5,0.30000000000000004
+strong_overload,1.0,imprint,response_imprint_efficiency,within_route_forward_60_40,11,0.30000000000000004,0.5,-0.20000000000000004
+strong_overload,1.0,hazard,response_hazard_number,within_route_forward_60_40,11,0.7,0.5,0.20000000000000004
+strong_overload,1.0,activation+imprint,response_loop_activation;response_imprint_efficiency,within_route_forward_60_40,11,0.6,0.5,0.10000000000000002
+strong_overload,1.0,amplitude+cost+imprint,response_amplitude;response_loop_cost_positive;response_imprint_efficiency,within_route_forward_60_40,11,0.30000000000000004,0.5,-0.20000000000000004

@@ -1,0 +1,2 @@
+test,base_model,full_model,n,observed_delta_r2,route_preserving_shuffle_p,null_q025,null_median,null_q975
+loop_sector_after_tail_and_route,S+T+SxT,S+T+SxT+L+SxL,150,0.10451901782833783,0.0001999600079984003,0.0007222928563972109,0.003396288727760044,0.009755878070687968

@@ -1,0 +1,9 @@
+model,features,target,validation,n,r2_vs_training_mean,spearman_y_yhat
+amplitude,response_amplitude,overload_asinh,within_route_forward_60_40,33,0.7599495474131481,0.8937165775401071
+loop activation,loop_activation_positive,overload_asinh,within_route_forward_60_40,33,0.9513075562542836,0.9569264019029405
+buffer efficiency,buffer_efficiency,overload_asinh,within_route_forward_60_40,33,0.3879575797655034,0.857620320855615
+hazard number,log_hazard_number,overload_asinh,within_route_forward_60_40,33,0.9322936015700587,0.9321524064171123
+quality factor,log_quality_factor,overload_asinh,within_route_forward_60_40,33,0.9322936015684393,0.9321524064171123
+amplitude + loop,response_amplitude;loop_activation_positive,overload_asinh,within_route_forward_60_40,33,0.8997531190953222,0.8980614973262033
+hazard + buffer,log_hazard_number;buffer_efficiency,overload_asinh,within_route_forward_60_40,33,0.8263054215921117,0.9024064171122995
+full breathing triplet,response_amplitude;loop_activation_positive;buffer_efficiency,overload_asinh,within_route_forward_60_40,33,0.8559611755609182,0.9007352941176471

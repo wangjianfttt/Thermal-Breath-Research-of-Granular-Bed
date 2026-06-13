@@ -1,0 +1,8 @@
+model,features,validation,n,r2_vs_training_mean,spearman_y_yhat
+abundance only,loop_abundance_delta,leave_one_route_out,150,0.8493190473941614,0.8479790212898352
+enrichment only,loop_enrichment_delta,leave_one_route_out,150,0.49836860671517225,0.5106946975421129
+enrichment ratio,log_loop_enrichment_ratio,leave_one_route_out,150,0.4952437371866235,0.49801146717631894
+force share,loop_force_share_delta,leave_one_route_out,150,0.8814265868494265,0.9080919151962311
+abundance + enrichment,loop_abundance_delta;loop_enrichment_delta,leave_one_route_out,150,0.8755624244681646,0.8966105160229344
+top5 tail,top5_delta,leave_one_route_out,150,0.7898391827258926,0.7772701008933731
+top5 + enrichment,top5_delta;loop_enrichment_delta,leave_one_route_out,150,0.8036246003234317,0.777358993733055

@@ -1,0 +1,55 @@
+coordinate_mode,coordinate_label,coordinate_family,geometry_metric,target,spearman,exact_p_two_sided
+global_robust_z,global robust z,linear-robust,open_signed_area,mean_overload,-0.7,0.23333333333333334
+global_robust_z,global robust z,linear-robust,open_signed_area,loop_gain,-0.7,0.23333333333333334
+global_robust_z,global robust z,linear-robust,open_signed_area,S,-0.7,0.23333333333333334
+global_robust_z,global robust z,linear-robust,closed_signed_area,mean_overload,-0.9999999999999999,0.016666666666666666
+global_robust_z,global robust z,linear-robust,closed_signed_area,loop_gain,-0.9999999999999999,0.016666666666666666
+global_robust_z,global robust z,linear-robust,closed_signed_area,S,-0.9999999999999999,0.016666666666666666
+global_robust_z,global robust z,linear-robust,net_displacement,mean_overload,-0.8999999999999998,0.08333333333333333
+global_robust_z,global robust z,linear-robust,net_displacement,loop_gain,-0.8999999999999998,0.08333333333333333
+global_robust_z,global robust z,linear-robust,net_displacement,S,-0.8999999999999998,0.08333333333333333
+global_z,global z,linear,open_signed_area,mean_overload,-0.3,0.6833333333333333
+global_z,global z,linear,open_signed_area,loop_gain,-0.3,0.6833333333333333
+global_z,global z,linear,open_signed_area,S,-0.3,0.6833333333333333
+global_z,global z,linear,closed_signed_area,mean_overload,-0.9999999999999999,0.016666666666666666
+global_z,global z,linear,closed_signed_area,loop_gain,-0.9999999999999999,0.016666666666666666
+global_z,global z,linear,closed_signed_area,S,-0.9999999999999999,0.016666666666666666
+global_z,global z,linear,net_displacement,mean_overload,0.7999999999999999,0.13333333333333333
+global_z,global z,linear,net_displacement,loop_gain,0.7999999999999999,0.13333333333333333
+global_z,global z,linear,net_displacement,S,0.7999999999999999,0.13333333333333333
+route_centered_raw,route-centred raw,linear,open_signed_area,mean_overload,-0.9999999999999999,0.016666666666666666
+route_centered_raw,route-centred raw,linear,open_signed_area,loop_gain,-0.9999999999999999,0.016666666666666666
+route_centered_raw,route-centred raw,linear,open_signed_area,S,-0.9999999999999999,0.016666666666666666
+route_centered_raw,route-centred raw,linear,closed_signed_area,mean_overload,-0.9999999999999999,0.016666666666666666
+route_centered_raw,route-centred raw,linear,closed_signed_area,loop_gain,-0.9999999999999999,0.016666666666666666
+route_centered_raw,route-centred raw,linear,closed_signed_area,S,-0.9999999999999999,0.016666666666666666
+route_centered_raw,route-centred raw,linear,net_displacement,mean_overload,0.49999999999999994,0.45
+route_centered_raw,route-centred raw,linear,net_displacement,loop_gain,0.49999999999999994,0.45
+route_centered_raw,route-centred raw,linear,net_displacement,S,0.49999999999999994,0.45
+route_rank,route rank,nonlinear rank,open_signed_area,mean_overload,-0.39999999999999997,0.5166666666666667
+route_rank,route rank,nonlinear rank,open_signed_area,loop_gain,-0.39999999999999997,0.5166666666666667
+route_rank,route rank,nonlinear rank,open_signed_area,S,-0.39999999999999997,0.5166666666666667
+route_rank,route rank,nonlinear rank,closed_signed_area,mean_overload,-0.3,0.6833333333333333
+route_rank,route rank,nonlinear rank,closed_signed_area,loop_gain,-0.3,0.6833333333333333
+route_rank,route rank,nonlinear rank,closed_signed_area,S,-0.3,0.6833333333333333
+route_rank,route rank,nonlinear rank,net_displacement,mean_overload,-0.09999999999999999,0.95
+route_rank,route rank,nonlinear rank,net_displacement,loop_gain,-0.09999999999999999,0.95
+route_rank,route rank,nonlinear rank,net_displacement,S,-0.09999999999999999,0.95
+route_robust_z,route robust z,linear-robust,open_signed_area,mean_overload,-0.8999999999999998,0.08333333333333333
+route_robust_z,route robust z,linear-robust,open_signed_area,loop_gain,-0.8999999999999998,0.08333333333333333
+route_robust_z,route robust z,linear-robust,open_signed_area,S,-0.8999999999999998,0.08333333333333333
+route_robust_z,route robust z,linear-robust,closed_signed_area,mean_overload,-0.8999999999999998,0.08333333333333333
+route_robust_z,route robust z,linear-robust,closed_signed_area,loop_gain,-0.8999999999999998,0.08333333333333333
+route_robust_z,route robust z,linear-robust,closed_signed_area,S,-0.8999999999999998,0.08333333333333333
+route_robust_z,route robust z,linear-robust,net_displacement,mean_overload,-0.7999999999999999,0.13333333333333333
+route_robust_z,route robust z,linear-robust,net_displacement,loop_gain,-0.7999999999999999,0.13333333333333333
+route_robust_z,route robust z,linear-robust,net_displacement,S,-0.7999999999999999,0.13333333333333333
+route_z,route-centred z,linear,open_signed_area,mean_overload,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,open_signed_area,loop_gain,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,open_signed_area,S,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,closed_signed_area,mean_overload,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,closed_signed_area,loop_gain,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,closed_signed_area,S,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,net_displacement,mean_overload,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,net_displacement,loop_gain,-0.9999999999999999,0.016666666666666666
+route_z,route-centred z,linear,net_displacement,S,-0.9999999999999999,0.016666666666666666

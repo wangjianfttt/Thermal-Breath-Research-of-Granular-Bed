@@ -1,0 +1,9 @@
+model,features,target,validation,n_test,r2_vs_training_mean,spearman_prediction
+A only,log_A,Omega,within_route_forward_60_40,33,0.9345619146988545,0.913770053475936
+L+ only,log_L_plus,Omega,within_route_forward_60_40,33,0.8035096829364833,0.8891583044016291
+eta only,log_eta,Omega,within_route_forward_60_40,33,0.46164118482850514,0.857620320855615
+Hb,log_H_b,Omega,within_route_forward_60_40,33,0.9322936017247934,0.9321524064171123
+Vb,breathing_vital_index,Omega,within_route_forward_60_40,33,0.8221526736146423,0.8943850267379679
+"A,L+,eta",log_A;log_L_plus;log_eta,Omega,within_route_forward_60_40,33,0.962048576492764,0.940842245989305
+"A,L+,eta,Ib",log_A;log_L_plus;log_eta;I_b,Omega,within_route_forward_60_40,33,0.9478307879904122,0.9268048128342247
+full vital signs,log_A;log_L_plus;log_eta;I_b;E_m,Omega,within_route_forward_60_40,33,0.9299129858411046,0.9254679144385026

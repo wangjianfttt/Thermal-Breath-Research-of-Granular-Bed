@@ -1,0 +1,5 @@
+test,value,interpretation
+hot_overload_loop_gain_over_force_tail_loro,1.0828710584306471,Positive means the dimensionless force-loop coordinate transfers better than the top-5% force-tail surrogate.
+hot_overload_modifiers_delta_forward,0.09169885126683175,Positive means non-normal and geometric modifiers improve within-route later-cycle prediction after the loop coordinate.
+next_cold_hot_coordinate_delta_forward,-0.512917443104291,Positive would mean the hot loop-excitation coordinate carries lagged imprint information beyond the current cold memory coordinate for this target; negative bounds the claim.
+next_cold_tail_delta_forward,-0.0417478447999573,Compares a force-tail surrogate with the current-memory baseline for next-cold imprint prediction.

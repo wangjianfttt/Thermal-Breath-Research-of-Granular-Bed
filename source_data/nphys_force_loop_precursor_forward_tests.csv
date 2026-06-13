@@ -1,0 +1,8 @@
+model,features,validation,n,r2_vs_training_mean,spearman_observed_predicted
+same-cycle Psi,dimensionless_loop_number,within_route_forward_60_40,60,0.9224797598201462,0.9582661850514034
+lag-1 Psi,dimensionless_loop_number_lag1,within_route_forward_60_40,60,0.5231189456273492,0.8188941372603502
+lag-2 Psi,dimensionless_loop_number_lag2,within_route_forward_60_40,60,0.6696903458568575,0.9089747151986666
+prev-3 Psi mean,dimensionless_loop_number_prev3_mean,within_route_forward_60_40,60,0.5806039135908652,0.8645734926368438
+lag-2 loop,loop_activation_lag2,within_route_forward_60_40,60,0.7087132686692632,0.9212003334259518
+lag-2 top-5 tail,top5_activation_lag2,within_route_forward_60_40,60,0.3982268426053325,0.8545151430953045
+lag-2 cold loop share,force_h1_birth_force_share_cold_lag2,within_route_forward_60_40,60,0.0005550527270005157,0.8731314253959435

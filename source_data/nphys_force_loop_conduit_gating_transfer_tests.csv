@@ -1,0 +1,9 @@
+model,features,validation,n,r2_vs_training_mean,spearman_y_yhat,spearman_p
+loop force share,loop_activation,leave_one_route_out,150,0.8814265868494242,0.9080919151962311,8.125587513431878e-58
+loop abundance,loop_abundance_activation,leave_one_route_out,150,0.849319047394146,0.8479790212898352,1.210620442840798e-42
+wall conduit,wall_conduit_activation,leave_one_route_out,150,-0.007705196745942944,-0.7849575536690521,1.401839013103539e-32
+giant backbone,giant_force_backbone_activation,leave_one_route_out,150,-0.1270680316052022,-0.8170763145028669,3.1913412320703576e-37
+top-5 force tail,top5_tail_activation,leave_one_route_out,150,0.789839182725908,0.7772701008933731,1.3835384593257297e-31
+loop + conduit,loop_activation;wall_conduit_activation,leave_one_route_out,150,0.8586705671922388,0.9009449308858172,1.5824503438022984e-55
+loop + conduit + interaction,loop_activation;wall_conduit_activation;loop_conduit_product,leave_one_route_out,150,0.8805335698182626,0.9099622205431352,1.904232028259961e-58
+loop + giant backbone,loop_activation;giant_force_backbone_activation,leave_one_route_out,150,0.8795976985557796,0.907526556735855,1.2522249306696425e-57

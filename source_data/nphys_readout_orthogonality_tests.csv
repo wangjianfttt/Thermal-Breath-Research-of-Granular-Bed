@@ -1,0 +1,12 @@
+scope,test,predictor,target,n,spearman_rho,spearman_p_exact,pearson_r,pearson_p
+six_regime,matched_cold,fabric_memory_index,cold_load,6,1.0,0.002777777777777778,0.9787579247123691,0.0006720461579784202
+six_regime,matched_hot,loop_activation_index,hot_overload_force_delta,6,1.0,0.002777777777777778,0.9902707911026857,0.00014152578732771128
+six_regime,cross_fabric_to_hot,fabric_memory_index,hot_overload_force_delta,6,-0.8857142857142858,0.03333333333333333,-0.6998459932015825,0.12161784010296162
+six_regime,cross_loop_to_cold,loop_activation_index,cold_load,6,-0.8857142857142858,0.03333333333333333,-0.7102041394782141,0.11380369523505075
+six_regime,hot_load_fabric,fabric_memory_index,hot_load,6,-0.2571428571428572,0.6583333333333333,-0.19649421503211564,0.7090519959682513
+six_regime,hot_load_loop,loop_activation_index,hot_load,6,0.6,0.24166666666666667,0.7503682666211585,0.08569597762767929
+long_cycle_within_route,matched_loop_to_overload,loop_activation,overload_delta,90,0.7919249290035806,1.495239607820495e-20,0.638832197894382,1.2446577515697699e-11
+long_cycle_within_route,matched_rewrite_to_overload,thermal_rewrite,overload_delta,90,0.653751491953739,2.835081748068591e-12,0.7529105839132069,1.1458289832386344e-17
+long_cycle_within_route,cross_fabric_to_overload,fabric_reservoir,overload_delta,90,-0.29724657365106805,0.004439505188524275,-0.11759665035525922,0.2696537051333279
+long_cycle_within_route,cross_loop_to_cold_force,loop_activation,force_p99_cold,90,-0.23098324896077702,0.028496661654042892,-0.5022050527505079,4.5770342652952923e-07
+long_cycle_within_route,fabric_to_cold_force,fabric_reservoir,force_p99_cold,90,0.19700374531835205,0.06273005381610129,0.34061952323683964,0.0010196460341311204

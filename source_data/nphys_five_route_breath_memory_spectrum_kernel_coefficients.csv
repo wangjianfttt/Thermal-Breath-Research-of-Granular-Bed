@@ -1,0 +1,32 @@
+model,base_variable,lag_cycles,coefficient
+Psi memory kernel,psi_z,0,0.33505240927781477
+Psi memory kernel,psi_z,1,-0.025199367144308725
+Psi memory kernel,psi_z,2,0.2203252670074968
+Psi memory kernel,psi_z,3,-0.08441717624223008
+Psi memory kernel,psi_z,4,0.10971130768960313
+cold-loop memory kernel,cold_loop_z,0,-0.007246491886858777
+cold-loop memory kernel,cold_loop_z,1,0.0403834533310757
+cold-loop memory kernel,cold_loop_z,2,0.00034300713932854386
+cold-loop memory kernel,cold_loop_z,3,0.005916182983335637
+cold-loop memory kernel,cold_loop_z,4,0.034622095680875896
+force-tail memory kernel,tail_z,0,0.027483048565694623
+force-tail memory kernel,tail_z,1,0.14492245594774697
+force-tail memory kernel,tail_z,2,-0.12996262856289298
+force-tail memory kernel,tail_z,3,0.09538356926986162
+force-tail memory kernel,tail_z,4,-0.2009931601953824
+loop memory kernel,loop_z,0,0.33505240927781665
+loop memory kernel,loop_z,1,-0.025199367144305297
+loop memory kernel,loop_z,2,0.22032526700749538
+loop memory kernel,loop_z,3,-0.08441717624222991
+loop memory kernel,loop_z,4,0.10971130768960276
+loop plus tail kernel,loop_z,0,0.3560136641719599
+loop plus tail kernel,loop_z,1,-0.045967611178898554
+loop plus tail kernel,loop_z,2,0.22983198907848204
+loop plus tail kernel,loop_z,3,-0.09012660689948435
+loop plus tail kernel,loop_z,4,0.08972134553770211
+loop plus tail kernel,tail_z,0,0.08376913055794415
+loop plus tail kernel,tail_z,1,-0.004449753183518301
+loop plus tail kernel,tail_z,2,-0.0011953461146466907
+loop plus tail kernel,tail_z,3,0.004949968025467139
+loop plus tail kernel,tail_z,4,-0.04151773005621999
+same-cycle Psi,psi_z,0,0.5796124324141927

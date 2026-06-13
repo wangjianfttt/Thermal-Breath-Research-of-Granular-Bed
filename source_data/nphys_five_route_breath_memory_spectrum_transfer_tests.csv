@@ -1,0 +1,7 @@
+model,features,validation,n,r2_vs_training_mean,spearman_y_yhat
+same-cycle Psi,psi_z_lag0,leave_one_route_out,130,0.722004584579595,0.8595856832675578
+Psi memory kernel,psi_z_lag0;psi_z_lag1;psi_z_lag2;psi_z_lag3;psi_z_lag4,leave_one_route_out,130,0.8124578095741519,0.9166231957284682
+loop memory kernel,loop_z_lag0;loop_z_lag1;loop_z_lag2;loop_z_lag3;loop_z_lag4,leave_one_route_out,130,0.8124578095741606,0.9166231957284682
+force-tail memory kernel,tail_z_lag0;tail_z_lag1;tail_z_lag2;tail_z_lag3;tail_z_lag4,leave_one_route_out,130,-0.14427838771245938,0.13746739679635117
+cold-loop memory kernel,cold_loop_z_lag0;cold_loop_z_lag1;cold_loop_z_lag2;cold_loop_z_lag3;cold_loop_z_lag4,leave_one_route_out,130,-0.07336344320057098,-0.28310368842944733
+loop plus tail kernel,loop_z_lag0;loop_z_lag1;loop_z_lag2;loop_z_lag3;loop_z_lag4;tail_z_lag0;tail_z_lag1;tail_z_lag2;tail_z_lag3;tail_z_lag4,leave_one_route_out,130,0.7728630877498044,0.8983735951603871

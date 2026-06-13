@@ -1,0 +1,7 @@
+target,model,features,validation,n,r2_vs_mean,spearman_y_yhat
+overload_response,loop activation,loop_activation,leave_one_route_out_huber,150,0.5516352333941621,0.8185270456464732
+overload_response,route severity,route_severity,leave_one_route_out_huber,150,0.6166719765783454,0.879658531370705
+overload_response,multiplicative SxL,response_coordinate,leave_one_route_out_huber,150,0.7507890563507785,0.9249779990221787
+overload_response,loop + severity,loop_activation;route_severity,leave_one_route_out_huber,150,0.5959773177737282,0.9606560291568513
+overload_response,loop + severity + SxL,loop_activation;route_severity;response_coordinate,leave_one_route_out_huber,150,0.8603633283866661,0.9563038357260324
+overload_response,top-5 force tail,top5_activation,leave_one_route_out_huber,150,0.6516513892786578,0.7552068980843593

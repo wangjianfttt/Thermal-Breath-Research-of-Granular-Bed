@@ -1,0 +1,5 @@
+predictor,auc_for_route_local_top20_overload
+loop force share,0.73
+wall conduit,0.5558333333333333
+loop x wall conduit,0.45222222222222225
+top-5 force tail,0.32222222222222224

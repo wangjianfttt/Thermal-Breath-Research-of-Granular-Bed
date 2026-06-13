@@ -1,0 +1,7 @@
+model,predictors,leave_one_route_r2,leave_one_route_spearman,n
+loop only,loop_activation_rc,0.5614853884298212,0.7588326186218509,240
+tail only,force_tail_rc,0.25487483802606725,0.3397446136217642,240
+loop + tail,loop_activation_rc;force_tail_rc,0.5478191250801775,0.7063933401621555,240
+topological triplet,loop_activation_rz;loop_birth_fraction_rz;giant_fragmentation_rz,0.33511129285561236,0.630443236861751,240
+tail/conduit triplet,force_tail_rz;giant_fragmentation_rz;wall_conduit_rz,0.188099090564934,0.4439556242295873,240
+full diagnostic,loop_activation_rz;loop_birth_fraction_rz;giant_fragmentation_rz;force_tail_rz;wall_conduit_rz,0.3953749075824756,0.6231965832740151,240

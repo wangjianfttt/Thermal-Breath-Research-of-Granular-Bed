@@ -1,0 +1,9 @@
+relationship,x,y,n_routes,spearman,exact_p_two_sided
+signed circulation vs mean overload,signed_circulation_area,mean_overload,5,-0.9999999999999999,0.016666666666666666
+signed circulation vs loop gain,signed_circulation_area,loop_gain,5,-0.9999999999999999,0.016666666666666666
+signed circulation vs slow severity,signed_circulation_area,S,5,-0.9999999999999999,0.016666666666666666
+clockwise circulation vs mean overload,clockwise_circulation,mean_overload,5,0.9999999999999999,0.016666666666666666
+net displacement vs mean overload,net_displacement,mean_overload,5,-0.9999999999999999,0.016666666666666666
+trajectory arc length vs mean overload,trajectory_arc_length,mean_overload,5,-0.3,0.6833333333333333
+absolute area vs mean overload,abs_circulation_area,mean_overload,5,0.0,1.0
+downward bias vs mean overload,downward_bias,mean_overload,5,0.8999999999999998,0.08333333333333333

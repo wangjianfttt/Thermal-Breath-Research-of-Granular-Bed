@@ -1,0 +1,6 @@
+phase,predictor,target,n,spearman_rho,permutation_p_two_sided
+hot,bottom_side_percolation_edge_fraction,force_p99,6,0.48571428571428577,0.3599280143971206
+hot,giant_fraction_after_top5_edges,force_p99,6,0.14285714285714288,0.8004399120175965
+hot,force_share_top5_edges,force_p99,6,-0.6571428571428573,0.17716456708658268
+hot,force_h1_birth_fraction,force_p99,6,0.3714285714285715,0.4937012597480504
+hot,force_h1_birth_force_share,force_p99,6,0.6571428571428573,0.17276544691061788

@@ -1,0 +1,9 @@
+relationship,predictor,target,observed_rho_within,block_size_cycles,n_boot,boot_median,boot_q025,boot_q975,boot_pr_positive,boot_pr_negative
+loop_to_overload,force_h1_birth_force_share_hot_minus_cold,force_p99_hot_minus_cold,0.7410124894439752,5,5000,0.7597951744693152,0.6564969382036002,0.8569152630965854,1.0,0.0
+top5_to_overload,force_share_top5_edges_hot_minus_cold,force_p99_hot_minus_cold,-0.4764638428374594,5,5000,-0.49587041119862374,-0.6818620323534124,-0.24428621249935364,0.0,1.0
+giant_component_to_overload,giant_fraction_after_top5_edges_hot_minus_cold,force_p99_hot_minus_cold,0.1529187963909507,5,5000,0.18707331397528076,-0.0978159007506131,0.6217656580105478,0.8926,0.1074
+fabric_to_next_cold_fabric,Z_geom_inhale_delta,Z_geom_next_cold_minus_current,0.47576000583217903,5,5000,0.5072229893186437,0.2847499784195669,0.7545000417352575,1.0,0.0
+positive_cycles_to_next_cold_loop_memory,cycle_birth_positive_fraction_inhale_delta,force_h1_birth_force_share_next_cold_minus_current,0.5460013122402857,5,5000,0.5481585952318013,0.3276103492098029,0.7675677169587106,1.0,0.0
+amplitude_to_overload,breath_amplitude,force_p99_hot_minus_cold,0.8308850331705182,5,5000,0.8663825731336545,0.7415675553962718,0.9403487498643207,1.0,0.0
+imprint_efficiency_to_overload,imprint_efficiency,force_p99_hot_minus_cold,-0.4351534592111977,5,5000,-0.45896018819677775,-0.7541648696168751,-0.10807306028034737,0.005,0.995
+loop_cost_to_overload,loop_cost,force_p99_hot_minus_cold,0.4421702996281985,5,5000,0.4394313841518557,0.2726831164595002,0.7595985879546833,1.0,0.0
