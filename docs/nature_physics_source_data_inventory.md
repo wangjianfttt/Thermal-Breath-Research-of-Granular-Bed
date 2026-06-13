@@ -124,7 +124,7 @@ Use `nature_physics_extended_data_captions.md` as the current caption draft for 
 | `source_data/nature_physics_raw_data_archive_inventory.csv` | Machine-readable raw-data archive inventory for required and optional raw/supporting files. |
 | `build_nature_physics_archive_staging.py` | Generates DOI-upload staging metadata from the raw archive inventory and Extended Data source-data cross-reference. |
 | `archive_staging/README_dataset.md` | Dataset README draft for a DOI-backed repository record. |
-| `archive_staging/datacite_metadata_draft.json` | DataCite-style metadata draft with title, creator, keywords, abstract, version and placeholder DOI fields. |
+| `archive_staging/datacite_metadata_draft.json` | DataCite-style metadata draft with title, creator, keywords, abstract, version and Zenodo DOI fields. |
 | `archive_staging/figure_to_source_data_map.md` | Figure-to-source-data map for the curated Extended Data package. |
 | `archive_staging/repository_upload_checklist.md` | Practical repository upload checklist for DOI deposition and post-upload verification. |
 | `build_nature_physics_archive_checksums.py` | Computes SHA256 checksums for all required raw DEM archive files and creates a suggested package plan. |
