@@ -44,8 +44,8 @@ DEM calculations used LIGGGHTS-style input decks to cycle Li2TiO3-like spherical
 
 ## Access and licence
 
-The repository record should specify a public data licence chosen by the author and institution. Until DOI deposition is complete, raw files remain local and the manuscript should state that DOI-backed deposition is pending.
+The code/data companion repository is archived on Zenodo at https://doi.org/10.5281/zenodo.20674801. The lightweight public snapshot contains processed source data, scripts, selected figure outputs and raw-file checksum metadata. The full raw DEM dump, restart and contact-local pair-force files are represented by checksum manifests and should be deposited separately if full raw-output reanalysis is required.
 
 ## Preferred citation
 
-Wang, J. (2026). Memory-induced thermal breathing of a granular force network: DEM source data and raw contact-network outputs. [Repository]. [DOI to be assigned].
+Wang, J. (2026). Memory-induced thermal breathing of a granular force network: code and processed data repository. Zenodo. https://doi.org/10.5281/zenodo.20674801.

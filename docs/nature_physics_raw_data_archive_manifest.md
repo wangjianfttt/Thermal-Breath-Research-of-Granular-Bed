@@ -1,6 +1,6 @@
 # Nature Physics raw-data archive manifest
 
-Purpose: define the raw and supporting files that should be deposited in a DOI-backed archive before final submission.
+Purpose: define the raw and supporting files associated with the public code/data repository archived at https://doi.org/10.5281/zenodo.20674801, and identify the full raw DEM files that may require separate deposition for full raw-output reanalysis.
 
 ## Summary
 
@@ -30,8 +30,8 @@ Purpose: define the raw and supporting files that should be deposited in a DOI-b
 
 ## Boundary
 
-The processed CSV source data are sufficient to reproduce manuscript and Extended Data plots. The raw `.local` contact-force files, restart files and input decks are required for independent reanalysis and simulation reruns. Raw files remain local until deposited in a public DOI-backed repository.
+The processed CSV source data and scripts are archived in the public code/data repository at https://doi.org/10.5281/zenodo.20674801 and are sufficient to inspect plotted values and numerical-claim audits. The raw `.local` contact-force files, restart files and input decks are required for independent reanalysis and simulation reruns. These full raw files are represented by checksum manifests and should be deposited separately if full raw-output reanalysis is required.
 
 ## Data availability wording after DOI assignment
 
-Replace the placeholder DOI in the manuscript with: `Raw DEM restart files, contact-local outputs, processed source data and analysis scripts have been deposited at [repository] under DOI [DOI]. Processed source data for all main and Extended Data figures are also included with the manuscript package.`
+Recommended manuscript wording: `Processed source data and code have been archived on Zenodo at https://doi.org/10.5281/zenodo.20674801. The full raw DEM dump, restart and contact-local pair-force files are represented by checksum manifests and should be deposited separately if full raw-output reanalysis is required.`

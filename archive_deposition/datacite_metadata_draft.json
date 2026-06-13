@@ -1,6 +1,6 @@
 {
   "identifier": {
-    "identifier": "DOI_TO_BE_ASSIGNED",
+    "identifier": "10.5281/zenodo.20674801",
     "identifierType": "DOI"
   },
   "creators": [
@@ -45,12 +45,12 @@
   "descriptions": [
     {
       "descriptionType": "Abstract",
-      "description": "Dataset supporting a Nature Physics Article candidate on memory-induced thermal breathing in a thermally cycled granular force network. The DOI package should include processed source data, analysis scripts, input decks and 2823 required raw DEM files (5.01 GB) comprising atom dumps, restart files and contact-local pair-force outputs."
+      "description": "Code and processed-data repository supporting a Nature Physics Article candidate on memory-induced thermal breathing in a thermally cycled granular force network. The public DOI snapshot includes processed source data, analysis scripts, selected figure outputs and raw-file checksum metadata. The full raw DEM dump, restart and contact-local pair-force files comprise 2823 files (5.01 GB locally) and should be deposited separately if full raw-output reanalysis is required."
     }
   ],
   "rightsList": [
     {
-      "rights": "Licence to be selected before deposition"
+      "rights": "Licence to be selected by the author and institution"
     }
   ],
   "relatedIdentifiers": [

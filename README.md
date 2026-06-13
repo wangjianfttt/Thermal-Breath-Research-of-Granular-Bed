@@ -6,6 +6,8 @@ Code and processed data for the study:
 
 This repository is intended as the public code/data companion repository. It does not contain the manuscript text, cover letter, editorial correspondence or old draft files.
 
+Archived DOI: https://doi.org/10.5281/zenodo.20674801
+
 ## Repository Contents
 
 - `scripts/`: Python scripts used for figure generation, source-data audits, mechanism mining and archive bookkeeping.
@@ -22,7 +24,7 @@ This repository is intended as the public code/data companion repository. It doe
 - Raw DEM atom dumps, restart files and contact-local pair-force outputs.
 - Large TIFF production figures.
 
-The raw DEM archive contains 2,823 required files and is approximately 5.01 GB locally. It should be deposited separately in a DOI-backed repository before formal journal submission. The checksum manifest is provided in `archive_deposition/required_raw_file_sha256.csv`.
+The raw DEM archive contains 2,823 required files and is approximately 5.01 GB locally. The lightweight GitHub/Zenodo snapshot contains processed source data, scripts, selected figure outputs and raw-file checksum metadata. The full raw DEM dump, restart and contact-local pair-force files should be deposited separately if full raw-output reanalysis is required. The checksum manifest is provided in `archive_deposition/required_raw_file_sha256.csv`.
 
 ## Quick Start
 
@@ -47,7 +49,7 @@ Most scripts expect to be run from the repository root and write outputs to `sou
 
 ## Data Boundary
 
-The processed source data are sufficient to inspect plotted quantities, numerical claims and audit tables. Full reruns from raw DEM output require the separate raw archive described in `docs/nature_physics_raw_data_archive_manifest.md`.
+The processed source data are sufficient to inspect plotted quantities, numerical claims and audit tables. Full reruns from raw DEM output require the raw files described in `docs/nature_physics_raw_data_archive_manifest.md`.
 
 ## Corresponding Author
 
