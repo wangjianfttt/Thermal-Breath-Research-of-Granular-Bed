@@ -360,12 +360,12 @@ Use `nature_physics_extended_data_captions.md` as the current caption draft for 
 
 ## Data availability draft
 
-Processed source data for all main and Extended Data figures are provided as CSV or JSON files in the `source_data` directory, with additional run-level summaries in the `runs` directory. The discrete-element input decks, post-processing scripts, figure scripts and audit scripts are included in the project repository. The raw-data archive audit identifies 2,823 required raw DEM files, about 5.01 GB, comprising atom dumps, restart files and contact-local pair-force outputs. These files remain local at this stage and should be deposited in a DOI-backed repository before final submission. Absolute wall loads are reported as simulation pressure proxies; raw mesh-force and contact-force outputs should be deposited to support reanalysis of the proxy definitions.
+Processed source data for all main and Extended Data figures, together with post-processing, figure-generation and audit scripts, are archived in the public code/data repository at https://doi.org/10.5281/zenodo.20674801. The raw-data archive audit identifies 2,823 raw DEM files, about 5.01 GB locally, comprising atom dumps, restart files and contact-local pair-force outputs. These full raw files are represented by SHA256 checksum manifests and should be deposited separately if complete raw-output reanalysis is required. Absolute wall loads are reported as simulation pressure proxies; raw mesh-force and contact-force outputs support reanalysis of the proxy definitions.
 
 ## Remaining submission-gate items
 
-1. Assign a public repository or data DOI for the raw dump, restart and contact-local files listed in `nature_physics_raw_data_archive_manifest.md`.
+1. Completed for processed code/data: Zenodo DOI https://doi.org/10.5281/zenodo.20674801. Full raw dump, restart and contact-local files remain a separate deposition item if complete raw-output reanalysis is required.
 2. Completed: the force-loop mechanism chain has been distilled into main Fig. 4; the older force-backbone motif, dimensionless-collapse and robustness analyses can now be treated as Extended Data / reviewer-risk evidence.
 3. Completed: Fig. 5 is now the route-conditioned dissipative return-map figure, not a direct contact-force CCDF. It remains within the official six-display-item Article limit.
-4. Completed first pass: the main manuscript now uses the installed `naturemag` bibliography style. Remaining reference work is metadata verification and DOI-backed data/code citation after archiving.
+4. Completed first pass: the main manuscript now uses the installed `naturemag` bibliography style and includes the Zenodo code/data DOI. Remaining reference work is metadata verification.
 5. Perform final visual QA after any additional figure resizing, final affiliation changes, data/code citation insertion or journal-template conversion.
